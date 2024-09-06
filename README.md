@@ -1,5 +1,5 @@
-# 📚 Library-Ual
-Second project made in schollarship at Compass UOL, with the objective of organizing the books of a library.
+# 📚 BD-2
+Project for college, with the objective of organizing the books of a library.
 
 ## ✈️ How to run the project
 
